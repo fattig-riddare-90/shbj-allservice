@@ -1,0 +1,24 @@
+/* Global styles */
+
+/* Form styles */
+
+.contact-form {
+    max-width: 500px;
+    border-color: #00f;
+    outline-color: #f80;
+    padding-bottom: 1rem;
+}
+
+.contact-form input, textarea {
+    border-color: #00f;
+}
+
+.btn {
+    align-items: end;
+    background-color: transparent;
+    border-color: #00f;
+    color: #00f;
+    font-weight: bold;;
+}
+
+/* Footer styles */
