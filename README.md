@@ -88,6 +88,7 @@ The design of the website will follow a minimalist approach, focusing on clarity
     * CSS
     * Bootstrap version 5.3.3
     * Javascript (for bootstrap and the "success"-modal for the form)
+    * favicon.io (for the favicons)
 ---
 
 ## Testing
