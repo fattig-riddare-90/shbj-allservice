@@ -98,6 +98,7 @@ The design of the website will follow a minimalist approach, focusing on clarity
 
 ### Wireframes
 
+![Wireframe](/assets/images/desktop%20wireframe.jpg)
 ---
 
 ## Features
