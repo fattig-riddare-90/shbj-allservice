@@ -1,11 +1,32 @@
 /* Colors to use throughout the project 
 
-rgba(22,64,125,255) Blue
-rgba(255,126,38,255) Orange
+rgba(22,64,125,1) Blue
+rgba(255,126,38,1) Orange
 
 /* Global styles */
 
+body {
+    padding-top: 67px
+}
+
 /* Navbar style */
+
+.navbar {
+    background-color: rgba(22,64,125, 1);
+}
+
+.nav-item a {
+    color: rgba(255, 126, 38, 1);
+    font-size: large;
+}
+
+.navbar .logo {
+    width: 100px;
+}
+
+button {
+    color: rgba(255, 126, 38, 1);
+}
 
 /* Header */
 
@@ -14,7 +35,6 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    margin-top: 118px;
     height:70vh;
     width: 100%;
     display: flex;
@@ -24,6 +44,7 @@ header {
 
 .header {
     background-color: rgba(22,64,125, 0.7);
+    min-width: 300px;
     width: 25%;
     height: 25%;
     display:flex;
