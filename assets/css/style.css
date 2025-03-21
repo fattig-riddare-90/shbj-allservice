@@ -5,11 +5,38 @@ rgba(255,126,38,255) Orange
 
 /* Global styles */
 
+/* Navbar style */
+
+/* Header */
+
 header {
+    background-image: url(../images/truck-riding-along-road.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     margin-top: 118px;
+    height:70vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-/* Navbar style */
+.header {
+    background-color: rgba(22,64,125, 0.7);
+    width: 25%;
+    height: 25%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header h1, .header p {
+    color: rgb(255, 126, 38);
+    font-weight: bold;
+}
+ 
 
 /* Form styles */
 
