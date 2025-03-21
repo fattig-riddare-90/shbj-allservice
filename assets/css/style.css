@@ -1,3 +1,8 @@
+/* Colors to use throughout the project 
+
+rgba(22,64,125,255) Blue
+rgba(255,126,38,255) Orange
+
 /* Global styles */
 
 header {
@@ -6,24 +11,22 @@ header {
 
 /* Navbar style */
 
-.navbar {
-    color: rgb(252, 160, 86);
-}
-
 /* Form styles */
 
 .contact-form {
     max-width: 500px;
-    border-color: rgb(91, 91, 173);
     padding-bottom: 1rem;
 }
 
 .btn {
-    align-items: end;
     background-color: transparent;
-    border-color: rgb(91, 91, 173);
-    color: rgb(91, 91, 173);
-    font-weight: bold;;
+    border-color: rgba(22,64,125,255);
+    color: rgba(22,64,125,255);
+    font-weight: bold;
 }
 
+.btn:hover {
+    background-color: rgb(22,64,125);
+    color: rgb(255,126,38);
+}
 /* Footer styles */
