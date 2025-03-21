@@ -59,12 +59,38 @@ The goal of this project is to create a professional and user-friendly website f
 ### User Stories
 
     1. As a business owner or HR manager, I want to quickly see if SHBJ Allservice provides the personnel I need, so I can decide if I should reach out to them for more information.
+        
+        Acceptance Criteria:
+            * Easily find what this company offers in terms of services
+        Tasks:
+            * Make an easy-to-find section where information about the company and its services are shown.
+            * Link to it in the navbar
 
     2. As a project manager, I want to access the contact details easily so I can get in touch with SHBJ Allservice for specific inquiries about available staff.
 
-    3. As a potential partner, I want to find a clear list of the competencies offered by SHBJ Allservice, so I can assess whether they can meet my company's needs for temporary or long-term staffing.
+        Acceptance Criteria:
+            * An obvious way to get in touch
+        
+        Tasks:
+            * Make an easy-to-find contact section
+            * Link in navbar
 
-    4. As a business owner or HR manager, I want to easily navigate the website and find relevant information without unnecessary steps, so I can save time and make decisions faster.
+    3. As a business owner or HR manager, I want to easily navigate the website and find relevant information without unnecessary steps, so I can save time and make decisions faster.
+
+        Acceptance Criteria:
+            * A simple navbar with the relevant links
+
+        Tasks:
+            * Make a fixed navbar
+
+    4. As a first time visitor I want the company to make a good impression and the site to clearly show what sector of business they focus on.
+
+        Acceptance Criteria:
+            * A professional looking site
+            * Images and an aesthetic that speaks about what sector they do business in as soon as the site opens
+
+        Tasks:
+            * Relevant images in the header
 
 ### Design Choices
 
