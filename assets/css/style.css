@@ -78,11 +78,13 @@ header {
 }   
  
 .about-text-box {
+    line-height: 1.6;
     padding: 20px;
     width: 50%;
 }
 
 .competencies-text-box {
+    line-height: 1.6;
     padding: 20px;
     width: 50%;
 }
