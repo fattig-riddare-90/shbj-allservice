@@ -53,13 +53,52 @@ header {
     color: rgb(255, 126, 38);
     font-weight: bold;
 }
+
+
+/* About section */
+
+.about-section {
+    background-color: rgba(22,64,125, 1);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.about-section h2 {
+    color: rgb(255, 126, 38);
+    font-weight: bold;
+    flex: top;
+    text-align: center;
+    width: 100%;
+    padding-top: 67px;
+}
+
+.about-section p, .about-section li, .about-section h3 {
+    color: rgb(255, 255, 255);
+}   
  
+.about-text-box {
+    padding: 20px;
+    width: 50%;
+}
+
+.competencies-text-box {
+    padding: 20px;
+    width: 50%;
+}
 
 /* Form styles */
 
 .contact-form {
     max-width: 500px;
     padding-bottom: 1rem;
+}
+
+.contact-form h2 {
+    color: rgb(22,64,125);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 68px;
 }
 
 .btn {
@@ -74,3 +113,15 @@ header {
     color: rgb(255,126,38);
 }
 /* Footer styles */
+
+/* Media queries */
+
+@media screen and (max-width: 768px) {
+    .header {
+        width: 50%;
+    }
+
+    .about-text-box, .competencies-text-box {
+        width: 100%;
+    }
+}
