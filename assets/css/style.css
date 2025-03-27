@@ -89,6 +89,28 @@ header {
     width: 50%;
 }
 
+/* Contact Cards */
+
+.contact-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 67px;
+    padding-bottom: 1rem;
+}
+
+.contact-cards h2 {
+    color: rgb(22,64,125);
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 1rem;
+}
+
+.card {
+    margin: 20px;
+}
+
 /* Form styles */
 
 .contact-form {
@@ -100,7 +122,6 @@ header {
     color: rgb(22,64,125);
     font-weight: bold;
     text-align: center;
-    padding-top: 68px;
 }
 
 .btn {
