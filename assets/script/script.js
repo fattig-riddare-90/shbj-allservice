@@ -1,3 +1,5 @@
+/* jshint esversion: 11 */
+
 // Custom JavaScript by a friend (to show modal after the form submit button has been pressed)
 
 document
