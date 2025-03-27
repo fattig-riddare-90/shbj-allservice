@@ -71,6 +71,10 @@ header {
     color: rgb(255, 126, 38);
 }
 
+.header p {
+    font-weight: bold;
+}
+
 
 /* About section */
 
@@ -111,17 +115,34 @@ header {
     margin-top: 1rem;
 }
 
-/* Contact Cards */
+/* Team Section */
 
-.contact-cards {
+.team-section {
+    background-color: rgb(255,126,38);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    min-height: 100vh;
     padding-top: 67px;
+}
+
+.team-text {
+    padding: 20px;
+    max-width: 1200px;
+    background-color: rgb(18, 53, 105);
+    color: rgb(255, 255, 255);
+    margin: 0 25px 0 25px;
+}
+
+.team-cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 68px;
     padding-bottom: 1rem;
 }
 
-.contact-cards h2 {
+.team-section h2 {
     color: rgb(22,64,125);
     text-align: center;
     width: 100%;
