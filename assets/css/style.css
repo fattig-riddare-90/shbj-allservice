@@ -81,12 +81,16 @@ header {
     line-height: 1.6;
     padding: 20px;
     width: 50%;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
 }
 
 .competencies-text-box {
     line-height: 1.6;
     padding: 20px;
     width: 50%;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin-top: 1rem;
 }
 
 /* Contact Cards */
