@@ -150,15 +150,9 @@ I've used pen and paper for mine.
 
 ### GitHub Projects
 
-⚠️ TIP ⚠️
- 
-Consider adding screenshots of your Projects Board(s), Issues (open and closed), and Milestone tasks.
-
-⚠️ --- END ---⚠️
-
 [GitHub Projects](https://www.github.com/fattig-riddare-90/shbj-allservice/projects) served as an Agile tool for this project. Through it, EPICs, User Stories, issues/bugs, and Milestone tasks were planned, then subsequently tracked on a regular basis using the Kanban project board.
 
-![screenshot](documentation/gh-projects.png)
+![screenshot](documentation/issues-projects.jpg)
 
 ### GitHub Issues
 
