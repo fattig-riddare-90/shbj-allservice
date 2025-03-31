@@ -146,22 +146,12 @@ I've used pen and paper for mine.
 | [![badge](https://img.shields.io/badge/ChatGPT-grey?logo=openai&logoColor=75A99C)](https://chat.openai.com) | Help debug, troubleshoot, and explain things. |
 | [![badge](https://img.shields.io/badge/Google_Fonts-grey)](https://fonts.google.com/) | Fonts. |
 
-⚠️ NOTE ⚠️
-
-Want to add more?
-
-- Tutorial: https://shields.io/badges/static-badge
-- Icons/Logos: https://simpleicons.org
-  - FYI: not all logos are available to use
-
-🛑 --- END --- 🛑
-
 ## Agile Development Process
 
 ### GitHub Projects
 
 ⚠️ TIP ⚠️
-
+ 
 Consider adding screenshots of your Projects Board(s), Issues (open and closed), and Milestone tasks.
 
 ⚠️ --- END ---⚠️
