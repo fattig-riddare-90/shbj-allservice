@@ -256,12 +256,6 @@ There are no remaining major differences between the local version when compared
 
 ### Acknowledgements
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to provide attribution and acknowledgement to any supports that helped, encouraged, or supported you throughout the development stages of this project. It's always lovely to appreciate those that help us grow and improve our developer skills. A few examples have been provided below to give you some ideas.
-
-⚠️ --- END ---⚠️
-
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://www.github.com/TravelTimN) for the support throughout the development of this project. A life-saver.
 - I would like to thank my partner, for believing in me, carrying a heavier load at home while I study.
 - I would like to thank my family, for supporting me in my career development change towards becoming a software developer.
