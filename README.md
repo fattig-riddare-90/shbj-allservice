@@ -88,34 +88,19 @@ I used [coolors.co](https://coolors.co/16407d-ff7e26-000000-ffffff) to generate 
 
 ### Typography
 
-⚠️ INSTRUCTIONS ⚠️
+The owner was provided with a set of possible fonts to choose from. The header font was the most relevant for him as he wanted something that resembled his logo, and I was given the mandate to choose freely on the second font. I chose Lexend as I found it readable.
 
-Explain any fonts and icon libraries used, like **Google Fonts**, **Font Awesome**, etc. Consider adding a link to each font used, the Font Awesome site (if used), or similar icon library.
-
-⚠️ --- END --- ⚠️
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+- [Angkor](https://fonts.google.com/specimen/Angkor) was used for the primary headers and titles.
+- [Lexend](https://fonts.google.com/specimen/Lexend) was used for all other secondary text.
 
 ## User Stories
 
-⚠️ INSTRUCTIONS ⚠️
-
-In this section, list all of your possible user stories for the project. Samples have been provided below using the example walkthrough project for your inspiration. Make sure to adjust to match your own project features!
-
-⚠️ --- END --- ⚠️
-
-| Target | Expectation | Outcome |
-| --- | --- | --- |
-| As a user | I would like to see examples of why I should join | so that I can learn about the club’s mission and purpose before deciding to join. |
-| As a user | I would like to view the running schedule/timetable | so that I can decide when to join a session. |
-| As a user | I would like to see the details of different running events | so that I can prepare accordingly. |
-| As an user | I would like to view a gallery of past events | so that I can see photos of myself and others from previous runs. |
-| As a user | I would like to sign up for the running club | so that I can join the community and participate in events. |
-| As a user | I would like to follow the club on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with club news and events. |
-| As a user | I would like the website to be fully responsive | so that I can easily navigate and access information from my phone, tablet, or desktop. |
-| As a user | I would like to see a 404 error page if I get lost | so that it's obvious that I've stumbled upon a page that doesn't exist. |
+| Target | Expectation |
+| --- | --- |
+| As a business owner | I want to quickly see if SHBJ Allservice provides the personnel I need, so I can decide if I should reach out to them for more information. |
+| As a project manager | I want to access the contact details easily so I can get in touch with SHBJ Allservice for specific inquiries about available staff. |
+| As a user | I want to easily navigate the website and find relevant information without unnecessary steps, so I can save time and make decisions faster. |
+| As a first time visitor | I want the company to make a good impression and the site to clearly show what sector of business they focus on. |
 
 ## Wireframes
 
