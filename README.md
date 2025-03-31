@@ -21,42 +21,45 @@ Through this professional visual representation of the company the owners hope p
 
 #### 1. Strategy Plane
 ##### Purpose
-- Encourage users to join the running club by showcasing its mission, community spirit, and benefits.
-- Provide a seamless user experience to keep users informed and engaged.
+
+- Provide a professional and informative online presence for SHBJ Allservice.
+- Ensure that potential clients quickly understand the company's services and how to contact us.
+- Offer a seamless user experience that reflects the company’s reliability and expertise.
 
 ##### Primary User Needs
-- Learn about the club’s purpose and events.
-- Join the club and stay updated.
-- Access responsive, user-friendly content.
+- Learn about SHBJ Allservice’s background, experience, and values.
+- Understand the services offered and their benefits.
+- Easily find contact information and submit inquiries through a secure contact form.
 
 ##### Business Goals
-- Increase club membership.
-- Boost participation in events and social media engagement.
+- Attract new business partnerships and clients.
+- Improve accessibility and client engagement through an intuitive website.
+- Streamline the inquiry and booking process to reduce manual administration.
 
 #### 2. Scope Plane
 ##### Features
 - A full list of [Features](#features) can be viewed in detail below.
 
 ##### Content Requirements
-- Clear, motivational text about the club’s mission.
-- Photos showcasing the community.
-- Event schedules and descriptions.
-- Forms for membership sign-up.
+- Clear, professional text about SHBJ Allservice’s mission, values, and expertise.
+- Background information on the company and its founders.
+- A structured and accessible contact section with a form for inquiries.
+- Footer containing essential details: address, phone number, email, and social media links.
 
 #### 3. Structure Plane
 ##### Information Architecture
 - **Navigation Menu**:
-  - Accessible links in the navbar.
+  - Clear links to Home, About, and Contact pages.
 - **Hierarchy**:
-  - Clear call-to-action buttons.
-  - Prominent placement of social media links in the footer.
+  - Important information, such as services and contact options, is prominently displayed.
+  - Call-to-action buttons for inquiries and bookings.
+  - Footer includes key contact details for quick access.
 
 ##### User Flow
-1. User lands on the home page → learns about the club’s mission.
-2. Navigates to the schedule/timetable → sees sessions they can join.
-3. Views the events → checks upcoming/past event details.
-4. Signs up via the membership page.
-5. Browses the gallery → explores the community spirit.
+1. User lands on the home page → sees the "About" heading and scrolls down.
+2. Visits the About section → learns about the company and its competencies.
+3. Navigates to the Contact section → submits an inquiry or request for service.
+4. Footer provides additional ways to reach out via phone or email.
 
 #### 4. Skeleton Plane
 ##### Wireframe Suggestions
@@ -69,22 +72,19 @@ Through this professional visual representation of the company the owners hope p
 
 ### Colour Scheme
 
-⚠️INSTRUCTIONS ⚠️
+Colours are chosen based on the wishes of the founder. He wanted something eye-catching and easily recognized when he first started the company. I took the liberty of using the colours in the manner I saw fit to make the page as pleasing on the eyes as possible.
 
-Explain your colors and color scheme. Consider adding a link and screenshot for your color scheme using [coolors](https://coolors.co/generate).
+I used [coolors.co](https://coolors.co/16407d-ff7e26-000000-ffffff) to generate my color palette.
 
-When you add a color to the palette, the URL is dynamically updated, making it easier for you to return back to your color palette later if needed. See example below:
+- `#FF7E26` primary heading.
+- `#16407D` alt heading.
+- `#16407D` primary background.
+- `#FF7E26` alt background.
+- `#FFFFFF` primary text.
+- `#000000` alt text.
 
-⚠️ --- END --- ⚠️
 
-I used [coolors.co](https://coolors.co/080708-3772ff-df2935-fdca40-e6e8e6) to generate my color palette.
-
-- `#000000` primary text.
-- `#3772FF` primary highlights.
-- `#DF2935` secondary text.
-- `#FDCA40` secondary highlights.
-
-![screenshot](documentation/coolors.png)
+![screenshot](documentation/coolors.jpg)
 
 ### Typography
 
