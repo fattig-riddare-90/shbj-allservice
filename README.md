@@ -113,54 +113,22 @@ I've used pen and paper for mine.
 
 ## Features
 
-⚠️ INSTRUCTIONS ⚠️
-
-In this section, you should go over the different parts of your project, and describe each feature. You should explain what value each of the features provides for the user, focusing on your target audience, what they want to achieve, and how your project can help them achieve these things.
-
-**IMPORTANT**: Remember to always include a screenshot of each individual feature!
-
-⚠️ --- END --- ⚠️
-
 ### Existing Features
 
 | Feature | Notes | Screenshot |
 | --- | --- | --- |
-| Navbar | Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, and Signup page, and is identical in each page to allow for easy navigation. On the smallest screens, a burger icon is used to toggle the navbar so it doesn't take up too much space. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the "back" button. The navbar is also `fixed`, so it stays in view even if the user has scrolled to the bottom of the page. | ![screenshot](documentation/features/navbar.png) |
-| Hero Image | The landing includes a photo with text-overlay to allow the user to see exactly which location this site would be applicable to. This section introduces the user to *Love Running* with an eye-catching animation to grab their attention. | ![screenshot](documentation/features/hero-image.png) |
-| Club Ethos | The club ethos section will allow the user to see the benefits of joining the *Love Running* meetups, as well as the benefits of running overall. The user will see the value of signing up for the *Love Running* meetups. This should encourage the user to consider running as their form of exercise. | ![screenshot](documentation/features/club-ethos.png) |
-| Schedule | This section will allow the user to see exactly when the meetups will happen, where they will be located, and how long the run will be (in kilometers). The type of run (trail or road) is also shown, to help runners choose the meetups that best match their preference. This section will be updated as these times change to keep the user up to date. | ![screenshot](documentation/features/schedule.png) |
-| Footer | The footer includes links to the relevant social media sites for *Love Running*. The links will open in a new tab to allow easy navigation for the user. The footer is valuable to the user, as it encourages them to keep connected via social media. | ![screenshot](documentation/features/footer.png) |
-| Gallery | The gallery will provide the user with supporting images to see what the meet-ups look like. This section is valuable to the user, as they will be able to easily identify the types of events that the organization puts together. It's responsive so no images stretch or skew, showing images stacked by 1 on mobile, by 2 on smaller tablets, by 3 on desktop, and by 4 on larger screens. | ![screenshot](documentation/features/gallery.png) |
-| Signup | This page will allow the user to sign up to *Love Running* and start their running journey with the community. The user will be able specify if they would like to take part in road, trail, or both types of running. The user will be asked to submit their full name and email address. | ![screenshot](documentation/features/singup.png) |
-| Confirmation | The confirmation page will give the illusion that the signup form was submitted successfully to the *Love Running* club. Due to the lack of a database or email system so far, this is a fake confirmation page, and will automatically redirect the user back to the home page after 10 seconds. | ![screenshot](documentation/features/confirmation.png) |
-| 404 | The 404 error page will indicate when a user has somehow navigated to a page that doesn't exist. This replaces the default GitHub Pages 404 page, and ties-in with the look and feel of the *Love Running* site by using the standard navbar and footer. | ![screenshot](documentation/features/404.png) |
+| Navbar | Featured on top of the page and with a `fixed` position, the fully responsive navigation bar includes links to the Header section, About section, Team section and the Contact section. On the smaller screens, a burger icon is used to toggle the navbar so it doesn't take up too much space. This section will allow the user to easily navigate from section to section across all devices without having to revert back to the previous page via the "back" button. The navbar is also `fixed`, so it stays in view even if the user has scrolled to the bottom of the page. | ![screenshot](documentation/features/navbar.jpg) |
+| Header Image | The landing includes an image with a text-overlay to present the company name and slogan. This section introduces the user to *SHBJ Allservice* with an eye-catching picture to grab their attention. | ![screenshot](documentation/features/header.jpg) |
+| About section | The About section of SHBJ Allservice provides insight into the company’s journey, growth, and expertise in workforce solutions. It details how the company was founded in 2019 to address the need for skilled personnel in the transport and logistics industry and how it has expanded over the years. Visitors can learn about the company’s leadership transition in 2022, its milestone achievements in 2023, and its ongoing commitment to quality and reliability. The section also highlights the range of specialized workforce solutions offered, including certified truck drivers, forklift operators, and ADR-certified personnel. Through this section, users gain a clear understanding of SHBJ Allservice’s values, expertise, and dedication to being a trusted partner in staffing solutions. | ![screenshot](documentation/features/about.jpg) |
+| Team section | The Team section introduces the people behind SHBJ Allservice, highlighting their expertise and dedication. It tells how Stig Helge Bruno Johansson founded the company in 2019 and how Fredrik and Johan later joined, learning business essentials under his mentorship. This section also includes profile cards with images and short bios, giving a personal touch to the team behind SHBJ Allservice. | ![screenshot](documentation/features/team.jpg) |
+| Contact form | The Contact section has a short text explaining to the user that the form is the safest way to get in touch, it also tells them to include specific information about the assignment if they are looking to book us. | ![screenshot](documentation/features/contact.jpg) |
+| Footer | The footer contains address, telephone number, email, opening hours and social media links to provide alternative ways to contact the company besides the form. | ![screenshot](documentation/features/footer.jpg) |
+| Success modal | This will give an illusion of successfully having submitted the contact form, as there is no email or database behind this, it is all fictitious but it looks good. | ![screenshot](documentation/features/modal.jpg) |
+| 404 | The 404 error page will indicate when a user has somehow navigated to a page that doesn't exist. This replaces the default GitHub Pages 404 page, and ties-in with the look and feel of the *SHBJ Allservice* site by using the standard navbar and footer. | ![screenshot](documentation/features/404.jpg) |
 
 ### Future Features
 
-⚠️ INSTRUCTIONS ⚠️
-
-Do you have additional ideas that you'd like to include on your project in the future? Fantastic, list them here! It's always great to have plans for future improvements. Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-A few examples are listed below to align with possible ways to improve on the sample walkthrough project, to give you some inspiration.
-
-⚠️ --- END ---⚠️
-
-- **Personalized User Profiles**: Allow users to create accounts where they can track their running progress, view personal stats, and share their achievements.
-- **Training Plans**: Offer customizable training plans for runners of all levels (beginner, intermediate, advanced) with notifications and reminders.
-- **Event Registration & Payment**: Integrate an option for runners to register and pay for upcoming events or races directly through the site.
-- **Achievements & Badges**: Introduce a gamification system where users earn badges or achievements for reaching milestones (e.g., number of runs, personal bests, attending events).
-- **Interactive Maps**: Display interactive running route maps, complete with distance markers, elevation data, and difficulty ratings.
-- **Live Event Tracking**: Provide real-time tracking for major club events so users can follow along or support friends running in real-time.
-- **Runner's Blog**: Include a blog section for members to share their running experiences, tips, and stories, fostering community engagement.
-- **Leaderboards**: Add a feature where users can compare their running stats with others in the club via leaderboards (e.g., most kilometers run, fastest times).
-- **Weekly Challenges**: Implement weekly running challenges or group challenges to keep users motivated and engaged.
-- **Weather Integration**: Show local weather conditions for Dublin and suggest the best times for a run, based on user preferences.
-- **Social Sharing**: Enable users to share their runs, achievements, or event participation directly on social media from the site.
-- **Club Merchandise Store**: Introduce an online store where users can purchase branded running gear like shirts, jackets, or water bottles.
-- **Push Notifications**: Allow users to opt-in for mobile push notifications for schedule updates, new events, or motivational reminders.
-- **Virtual Runs**: Create a platform for virtual runs where members can participate remotely and still receive medals or rewards.
-- **Member Forums or Groups**: Introduce discussion boards or group chats for runners to connect, discuss upcoming events, or share training tips.
-- **Charity Partnerships**: Offer integration with local charities where club members can run to raise money or awareness for specific causes.
+- **Customer reviews**: Allow users to see what others think of SHBJ Allservice, helps to ensure them.
 
 ## Tools & Technologies
 
@@ -174,8 +142,9 @@ A few examples are listed below to align with possible ways to improve on the sa
 | [![badge](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS) | Design and layout. |
 | [![badge](https://img.shields.io/badge/GitHub_Pages-grey?logo=githubpages&logoColor=222222)](https://pages.github.com) | Hosting the deployed front-end site. |
 | [![badge](https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com) | Front-end CSS framework for modern responsiveness and pre-built components. |
-| [![badge](https://img.shields.io/badge/Font_Awesome-grey?logo=fontawesome&logoColor=528DD7)](https://fontawesome.com) | Icons. |
+| [![badge](https://img.shields.io/badge/favicon.io-grey)](https://favicon.io) | Favicon. |
 | [![badge](https://img.shields.io/badge/ChatGPT-grey?logo=openai&logoColor=75A99C)](https://chat.openai.com) | Help debug, troubleshoot, and explain things. |
+| [![badge](https://img.shields.io/badge/Google_Fonts-grey)](https://fonts.google.com/) | Fonts. |
 
 ⚠️ NOTE ⚠️
 
