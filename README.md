@@ -160,8 +160,8 @@ I've used pen and paper for mine.
 
 | Link | Screenshot |
 | --- | --- |
-| [![GitHub issues](https://img.shields.io/github/issues/fattig-riddare-90/shbj-allservice)](https://www.github.com/fattig-riddare-90/shbj-allservice/issues) | ![screenshot](documentation/gh-issues-open.png) |
-| [![GitHub closed issues](https://img.shields.io/github/issues-closed/fattig-riddare-90/shbj-allservice)](https://www.github.com/fattig-riddare-90/shbj-allservice/issues?q=is%3Aissue+is%3Aclosed) | ![screenshot](documentation/gh-issues-closed.png) |
+| [![GitHub issues](https://img.shields.io/github/issues/fattig-riddare-90/shbj-allservice)](https://www.github.com/fattig-riddare-90/shbj-allservice/issues) | ![screenshot](documentation/issues-open.jpg) |
+| [![GitHub closed issues](https://img.shields.io/github/issues-closed/fattig-riddare-90/shbj-allservice)](https://www.github.com/fattig-riddare-90/shbj-allservice/issues?q=is%3Aissue+is%3Aclosed) | ![screenshot](documentation/issues-closed.jpg) |
 
 ### MoSCoW Prioritization
 
