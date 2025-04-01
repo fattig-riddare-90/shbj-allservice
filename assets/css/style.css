@@ -213,6 +213,7 @@ header {
     flex-wrap: wrap;
     width: 100%;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .footer-info, .footer-hours, .footer-social {
@@ -228,5 +229,9 @@ header {
 
     .about-text-box, .competencies-text-box {
         width: 100%;
+    }
+
+    .fixed-bottom {
+        position: static;
     }
 }
