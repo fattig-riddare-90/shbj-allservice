@@ -127,12 +127,12 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Page | Edge | Firefox | Brave | Notes |
 | --- | --- | --- | --- | --- |
-| Header | ![screenshot](documentation//browser-compatibility/edge/edge-header.jpg) | ![screenshot](documentation/browsers/firefox-home.png) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
-| About | ![screenshot](documentation/browser-compatibility/edge/edge-about.jpg) | ![screenshot](documentation/browsers/firefox-gallery.png) | ![screenshot](documentation/browsers/safari-gallery.png) | Works as expected |
-| Team | ![screenshot](documentation/browser-compatibility/edge/edge-team.jpg) | ![screenshot](documentation/browsers/firefox-signup.png) | ![screenshot](documentation/browsers/safari-signup.png) | Works as expected |
-| Contact | ![screenshot](documentation/browser-compatibility/edge/edge-contact.jpg) | ![screenshot](documentation/browsers/firefox-confirmation.png) | ![screenshot](documentation/browsers/safari-confirmation.png) | Works as expected |
-| Footer | ![screenshot](documentation/browser-compatibility/edge/edge-footer.jpg) | ![screenshot](documentation/browsers/firefox-404.png) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
-| 404 | ![screenshot](documentation/browser-compatibility/edge/edge-404.jpg) | ![screenshot](documentation/browsers/firefox-404.png) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
+| Header | ![screenshot](documentation//browser-compatibility/edge/edge-header.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-header.jpg) | ![screenshot](documentation/browsers/safari-home.png) | Works as expected |
+| About | ![screenshot](documentation/browser-compatibility/edge/edge-about.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-about.jpg) | ![screenshot](documentation/browsers/safari-gallery.png) | Works as expected |
+| Team | ![screenshot](documentation/browser-compatibility/edge/edge-team.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-team.jpg) | ![screenshot](documentation/browsers/safari-signup.png) | Works as expected |
+| Contact | ![screenshot](documentation/browser-compatibility/edge/edge-contact.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-contact.jpg) | ![screenshot](documentation/browsers/safari-confirmation.png) | Works as expected |
+| Footer | ![screenshot](documentation/browser-compatibility/edge/edge-footer.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-footer.jpg) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
+| 404 | ![screenshot](documentation/browser-compatibility/edge/edge-404.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-404.jpg) | ![screenshot](documentation/browsers/safari-404.png) | Works as expected |
 
 ## Lighthouse Audit
 
