@@ -217,7 +217,8 @@ header {
 }
 
 .footer-info, .footer-hours, .footer-social {
-    margin: 20px ;
+    margin: 20px;
+    min-width: 230px;
 }
 
 /* Media queries */
