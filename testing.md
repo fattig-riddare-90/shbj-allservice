@@ -65,43 +65,6 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Defensive Programming
 
-⚠️ INSTRUCTIONS ⚠️
-
-Defensive programming (defensive design) is extremely important! When building projects that accept user inputs or forms, you should always test the level of security for each form field. Examples of this could include (but not limited to):
-
-All Projects:
-
-- Users cannot submit an empty form (add the `required` attribute)
-- Users must enter valid field types (ensure the correct input `type=""` is used)
-- Users cannot brute-force a URL to navigate to a restricted pages
-
-Python Projects:
-
-- Users cannot perform CRUD functionality if not authenticated (if login functionality exists)
-- User-A should not be able to manipulate data belonging to User-B, or vice versa
-- Non-Authenticated users should not be able to access pages that require authentication
-- Standard users should not be able to access pages intended for superusers/admins
-
-You'll want to test all functionality on your application, whether it's a standard form, or CRUD functionality, for data manipulation on a database. Try to access various pages on your site as different user types (User-A, User-B, guest user, admin, superuser). You should include any manual tests performed, and the expected results/outcome.
-
-Testing should be replicable (can someone else replicate the same outcome?). Ideally, tests cases should focus on each individual section of every page on the website. Each test case should be specific, objective, and step-wise replicable.
-
-Instead of adding a general overview saying that everything works fine, consider documenting tests on each element of the page (eg. button clicks, input box validation, navigation links, etc.) by testing them in their "happy flow", their "bad/exception flow", mentioning the expected and observed results, and drawing a parallel between them where applicable.
-
-Consider using the following format for manual test cases:
-
-- Expected Outcome / Test Performed / Result Received / Fixes Implemented
-
-- **Expected**: "Feature is expected to do X when the user does Y."
-- **Testing**: "Tested the feature by doing Y."
-- (either) **Result**: "The feature behaved as expected, and it did Y."
-- (or) **Result**: "The feature did not respond to A, B, or C."
-- **Fix**: "I did Z to the code because something was missing."
-
-Use the table below as a basic start, and expand on it using the logic above.
-
-⚠️ --- END --- ⚠️
-
 Defensive programming was manually tested with the below user acceptance testing:
 
 | Page | Expectation | Test | Result | Screenshot |
@@ -115,24 +78,12 @@ Defensive programming was manually tested with the below user acceptance testing
 
 ## User Story Testing
 
-⚠️ INSTRUCTIONS ⚠️
-
-Testing User Stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **Features** should already align with the **User Stories**, so this should be as simple as creating a table with the User Story, matching with the re-used screenshot from the respective Feature.
-
-⚠️ --- END --- ⚠️
-
 | Target | Expectation | Outcome | Screenshot | 
 | --- | --- | --- | --- | 
-| As a user | I would like to see examples of why I should join | so that I can learn about the club’s mission and purpose before deciding to join. | ![screenshot](documentation/features/feature01.png) |
-| As a user | I would like to view the running schedule/timetable | so that I can decide when to join a session. | ![screenshot](documentation/features/feature02.png) |
-| As a user | I would like to see the details of different running events | so that I can prepare accordingly. | ![screenshot](documentation/features/feature03.png) |
-| As a user | I would like to view a gallery of past events | so that I can see photos of myself and others from previous runs. | ![screenshot](documentation/features/feature04.png) |
-| As a user | I would like to sign up for the running club | so that I can join the community and participate in events. | ![screenshot](documentation/features/feature05.png) |
-| As a user | I would like to follow the club on various platforms (e.g., Instagram, Facebook, Twitter) | so that I can stay updated with club news and events. | ![screenshot](documentation/features/feature06.png) |
-| As a user | I would like the website to be fully responsive | so that I can easily navigate and access information from my phone, tablet, or desktop. | ![screenshot](documentation/features/feature07.png) |
-| As a user | I would like to see a 404 error page if I get lost | so that it's obvious that I've stumbled upon a page that doesn't exist. | ![screenshot](documentation/features/feature08.png) |
+| As a business owner | I want to quickly see if SHBJ Allservice provides the personnel I need, so I can decide if I should reach out to them for more information.| Competencies are easily found in the "about-section" | ![screenshot](documentation/user-stories-testing/competencies.jpg) |
+| As a project manager | I want to access the contact details easily so I can get in touch with SHBJ Allservice for specific inquiries about available staff. | Click on navbar to be taken to the "contact-section" | ![screenshot](documentation/user-stories-testing/contact.jpg) |
+| As a user | I want to easily navigate the website and find relevant information without unnecessary steps, so I can save time and make decisions faster. | The navbar is ever-present in the top of the screen | ![screenshot](documentation/user-stories-testing/navbar.jpg) |
+| As a first time visitor | I want the company to make a good impression and the site to clearly show what sector of business they focus on. | The header makes a good impression with its style and conveys that this company is in the transport sector | ![screenshot](documentation/user-stories-testing/header.jpg) |
 
 ## Bugs
 
