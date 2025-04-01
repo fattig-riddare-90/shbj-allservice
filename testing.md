@@ -107,11 +107,6 @@ Any remaining open issues can be tracked [here](https://www.github.com/fattig-ri
 
 ### Known Issues
 
-| Issue | Screenshot |
-| --- | --- |
-|  | ![screenshot](documentation/issues/overflow.png) |
-|  | ![screenshot](documentation/issues/section-header.png) |
-
 > [!IMPORTANT]
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility.
 
