@@ -92,16 +92,16 @@ I've tested my deployed project to check for responsiveness issues.
 
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
-| Header | ![screenshot](documentation/responsiveness/mobile-header.jpg) | ![screenshot](documentation/responsiveness/tablet-header.jpg) | ![screenshot](documentation/responsiveness/desktop-home.png) | Works as expected |
+| Header | ![screenshot](documentation/responsiveness/mobile-header.jpg) | ![screenshot](documentation/responsiveness/tablet-header.jpg) | ![screenshot](documentation/responsiveness/desktop-header.jpg) | Works as expected |
 | Nav | ![screenshot](documentation/responsiveness/mobile-nav.jpg) | ![screenshot](documentation/responsiveness/tablet-nav.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
-| About | ![screenshot](documentation/responsiveness/mobile-about.jpg) | ![screenshot](documentation/responsiveness/tablet-about.jpg) | ![screenshot](documentation/responsiveness/desktop-gallery.png) | Works as expected |
-| Team | ![screenshot](documentation/responsiveness/mobile-team.jpg) | ![screenshot](documentation/responsiveness/tablet-team.jpg) | ![screenshot](documentation/responsiveness/desktop-signup.png) | Works as expected |
-| Cards | ![screenshot](documentation/responsiveness/mobile-cards.jpg) | ![screenshot](documentation/responsiveness/tablet-cards.jpg) | ![screenshot](documentation/responsiveness/desktop-confirmation.png) | Works as expected |
-| Contact | ![screenshot](documentation/responsiveness/mobile-contact.jpg) | ![screenshot](documentation/responsiveness/tablet-contact.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
-| Form | ![screenshot](documentation/responsiveness/mobile-form.jpg) | ![screenshot](documentation/responsiveness/tablet-form.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
-| Footer | ![screenshot](documentation/responsiveness/mobile-footer.jpg) | ![screenshot](documentation/responsiveness/tablet-footer.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
-| Modal | ![screenshot](documentation/responsiveness/mobile-modal.jpg) | ![screenshot](documentation/responsiveness/tablet-modal.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
-| 404 | ![screenshot](documentation/responsiveness/mobile-404.jpg) | ![screenshot](documentation/responsiveness/tablet-404.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
+| About | ![screenshot](documentation/responsiveness/mobile-about.jpg) | ![screenshot](documentation/responsiveness/tablet-about.jpg) | ![screenshot](documentation/responsiveness/desktop-about.jpg) | Works as expected |
+| Team | ![screenshot](documentation/responsiveness/mobile-team.jpg) | ![screenshot](documentation/responsiveness/tablet-team.jpg) | ![screenshot](documentation/responsiveness/desktop-team.jpg) | Works as expected |
+| Cards | ![screenshot](documentation/responsiveness/mobile-cards.jpg) | ![screenshot](documentation/responsiveness/tablet-cards.jpg) | ![screenshot](documentation/responsiveness/desktop-cards.jpg) | Works as expected |
+| Contact | ![screenshot](documentation/responsiveness/mobile-contact.jpg) | ![screenshot](documentation/responsiveness/tablet-contact.jpg) | ![screenshot](documentation/responsiveness/desktop-contact.jpg) | Works as expected |
+| Form | ![screenshot](documentation/responsiveness/mobile-form.jpg) | ![screenshot](documentation/responsiveness/tablet-form.jpg) | ![screenshot](documentation/responsiveness/desktop-form.jpg) | Works as expected |
+| Footer | ![screenshot](documentation/responsiveness/mobile-footer.jpg) | ![screenshot](documentation/responsiveness/tablet-footer.jpg) | ![screenshot](documentation/responsiveness/desktop-footer.jpg) | Works as expected |
+| Modal | ![screenshot](documentation/responsiveness/mobile-modal.jpg) | ![screenshot](documentation/responsiveness/tablet-modal.jpg) | ![screenshot](documentation/responsiveness/desktop-modal.jpg) | Works as expected |
+| 404 | ![screenshot](documentation/responsiveness/mobile-404.jpg) | ![screenshot](documentation/responsiveness/tablet-404.jpg) | ![screenshot](documentation/responsiveness/desktop-404.jpg) | Works as expected |
 
 ## Browser Compatibility
 
