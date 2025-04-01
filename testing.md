@@ -3,36 +3,9 @@
 > [!NOTE]
 > Return back to the [README.md](README.md) file.
 
-⚠️ INSTRUCTIONS ⚠️
-
-In the following sections, you need to convince the assessors that you have conducted enough manual testing to legitimately believe that the site works well. Essentially, in this part, you should go over all of your project's features, and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-⚠️ --- END --- ⚠️
-
 ## Code Validation
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use the space below to discuss code validation for all of your own code files (*where applicable*). You are not required to validate external libraries/frameworks.
-
-**MANDATORY**: You must provide a screenshot for each file you validate.
-
-**PRO TIP**: Where possible, always validate the live URL pages/files, not your local code using copy/paste. There could be subtle/hidden differences.
-
-⚠️ --- END --- ⚠️
-
 ### HTML
-
-⚠️ INSTRUCTIONS ⚠️
-
-1. [*recommended*] If you are using the live deployed site URLs, validate using this link: https://validator.w3.org/#validate_by_uri
-2. Otherwise, if you are copying/pasting your HTML code manually, use this link: https://validator.w3.org/#validate_by_input
-
-It's recommended to validate the live pages (all of them) using the deployed URL. This will give you a custom URL as well, which you can use below on your testing documentation. It makes it easier to return back to a page for validating it again in the future. The URL will look something like this:
-
-- https://validator.w3.org/nu/?doc=https://fattig-riddare-90.github.io/shbj-allservice/index.html
-
-⚠️ --- END --- ⚠️
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
@@ -44,23 +17,6 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 ### CSS
 
-⚠️ INSTRUCTIONS ⚠️
-
-1. [*recommended*] If you are using the live deployed site, use this link: https://jigsaw.w3.org/css-validator/#validate_by_uri
-2. If you are copying/pasting your CSS code, use this link: https://jigsaw.w3.org/css-validator/#validate_by_input
-
-It's recommended to validate the live site for your primary CSS file on the deployed URL. This will give you a custom URL as well, which you can use below on your testing documentation. It makes it easier to return back to a page for validating it again in the future. The URL will look something like this:
-
-- https://jigsaw.w3.org/css-validator/validator?uri=https://fattig-riddare-90.github.io/shbj-allservice
-
-If you have additional/multiple CSS files, then individual "[validation by input](https://jigsaw.w3.org/css-validator/#validate_by_input)" is recommended for the extra CSS files.
-
-**IMPORTANT**: Third-Party tools
-
-If you're using external libraries/frameworks (e.g: Bootstrap, Materialize, Font Awesome, etc.), then sometimes the tool will attempt to also validate these, even though it's not part of your own actual code that you wrote. You are not required to validate the external libraries or frameworks!
-
-⚠️ --- END --- ⚠️
-
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
 | Directory | File | URL | Screenshot | Notes |
@@ -69,24 +25,6 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 
 ## Responsiveness
-
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is to test the following 3 sizes:
-
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of your results, to "prove" that you've actually tested them.
-
-Using the [amiresponsive](http://ami.responsivedesign.is) mockup images (*or similar*) does not meet the requirements. Consider using some of the built-in device sizes from the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well. It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-⚠️ --- END --- ⚠️
 
 I've tested my deployed project to check for responsiveness issues.
 
@@ -105,24 +43,6 @@ I've tested my deployed project to check for responsiveness issues.
 
 ## Browser Compatibility
 
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to discuss testing the live/deployed site on various browsers. Consider testing at least 3 different browsers, if available on your system. You DO NOT need to use all of the browsers below, just pick any 3 (minimum).
-
-Recommended browsers to consider:
-- [Chrome](https://www.google.com/chrome)
-- [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer)
-- [Edge](https://www.microsoft.com/edge)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Brave](https://brave.com/download)
-- [Opera](https://www.opera.com/download)
-
-**IMPORTANT**: You must provide screenshots of the browsers you've tested, to "prove" that you've actually tested them.
-
-Please note, there are services out there that can test multiple browser compatibilities at the same time. Some of these are paid services, but some are free. If you use these, you must provide a link to the source used for attribution, and multiple screenshots of the results.
-
-⚠️ --- END --- ⚠️
-
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
 | Page | Edge | Firefox | Brave | Notes |
@@ -135,16 +55,6 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | 404 | ![screenshot](documentation/browser-compatibility/edge/edge-404.jpg) | ![screenshot](documentation/browser-compatibility/firefox/firefox-404.jpg) | ![screenshot](documentation/browser-compatibility/brave/brave-404.jpg) | Works as expected |
 
 ## Lighthouse Audit
-
-⚠️ INSTRUCTIONS ⚠️
-
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports. Avoid testing the local version (Gitpod/VSCode/etc.), as this can have knock-on effects for performance. If you don't have "Lighthouse" in your Developer Tools, it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Unless your project is a single-page application (SPA), you should test Lighthouse Audit results for all of your pages, for both *mobile* and *desktop*.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-⚠️ --- END --- ⚠️
 
 I've tested my deployed project using the Lighthouse Audit tool to check for any major issues. Some warnings are outside of my control, and mobile results tend to be lower than desktop.
 
@@ -196,16 +106,12 @@ Defensive programming was manually tested with the below user acceptance testing
 
 | Page | Expectation | Test | Result | Screenshot |
 | --- | --- |  --- |  --- |  --- |
-| Home | Feature is expected to display examples of why users should join. | Verified that the page displays the club’s mission and purpose in a clear and concise manner. | The mission and purpose were displayed as expected. | ![screenshot](documentation/defensive/home.png) |
-| | Feature is expected to have accessible navigation links. | Checked navigation links for correct functionality and accessibility. | Navigation links were functional and accessible. | ![screenshot](documentation/defensive/navigation.png) |
-| | Feature is expected to be fully responsive. | Resized the browser window and tested on multiple devices (mobile, tablet, desktop). | The page was responsive across all tested screen sizes. | ![screenshot](documentation/defensive/responsive.png) |
-| Schedule/Timetable | Feature is expected to show the running schedule/timetable for sessions. | Confirmed that the page contains a structured table or list with session timings. | Timetable was displayed as expected. | ![screenshot](documentation/defensive/schedule.png) |
-| Events | Feature is expected to display details of different running events. | Verified that the page lists upcoming events with relevant details. | Event details were displayed as expected. | ![screenshot](documentation/defensive/events.png) |
-| Gallery | Feature is expected to showcase a gallery of past events. | Verified that the gallery contains clear images that aren't stretched, pixelated, and fully responsive. | Images are properly sized, and respond well to different device sizes. | ![screenshot](documentation/defensive/gallery.png) |
-| Sign-Up Form | Feature is expected to prevent submission of an empty form. | Attempted to submit the form without filling any fields. | Form submission was blocked, as expected. | ![screenshot](documentation/defensive/signup01.png) |
-| | Feature is expected to enforce valid input types for each field. | Entered invalid data (e.g., random text in an email field, numbers in a name field, etc.). | Error messages were displayed appropriately, and submission was blocked. | ![screenshot](documentation/defensive/signup02.png) |
-| Social Links | Feature is expected to include working links to the club’s social platforms (Instagram, Facebook, etc.). | Clicked each social link to verify redirection to the correct platform page. | All links redirected to the correct platform pages, opening in new browser tabs. | ![screenshot](documentation/defensive/socialmedia.png) |
-| 404 Error Page | Feature is expected to display a 404 error page for non-existent pages. | Navigated to an invalid URL (e.g., `/test`) to test error handling. | A custom 404 error page was displayed as expected. | ![screenshot](documentation/defensive/404.png) |
+| Header | Show the user an appealing image and the company name and slogan | I entered the home page. |  And was shown an appealing image with the company name and slogan in the header, Success. | ![screenshot](documentation/defensive/defensive-header.jpg) |
+| Navbar | Take the user to the section indicated by the link in the navbar | Click all of the links in the navbar | I was taken to each page in turn after clicking on their respective link in the navbar | ![screenshot](documentation/defensive/defensive-nav.jpg) |
+| Form | The user should not be able to submit the form without filling it out correctly | Testing each field in turn by trying to submit the form with the field unfilled or with the wrong kind of character (numerical or alphabetical ) | As expected I was told to fill out the respective fields correctly before being able to submit the form | ![screenshot](documentation/defensive/defensive-form.jpg) |
+| Modal | To give the user assurance that their form was submitted successfully | Filled out the form and submitted it. | The modal showed up as it should | ![screenshot](documentation/defensive/defensive-modal.jpg) |
+| Social links | To take the user to the respective social media indicated in the links name on a new tab | Clicked the respective links | Was taken to a new tab with the social media site on, as the links don't lead to any specific account on the social media | ![screenshot](documentation/defensive/defensive-social.jpg) |
+| 404 | To show up if the user tries to enter a page on the site that does not exist | I tried entering /test after the site url | Ended up on the 404-page as I should | ![screenshot](documentation/defensive/defensive-404.jpg) |
 
 ## User Story Testing
 
