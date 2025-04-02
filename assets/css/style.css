@@ -44,7 +44,8 @@ body {
 /* Navbar style */
 
 .navbar {
-    background-color: rgba(22,64,125, 1);
+    background: rgb(22, 64, 125);
+    background: linear-gradient(90deg, rgba(22, 64, 125, 1) 0%, rgba(20, 37, 112, 1) 60%, rgba(20, 37, 112, 1) 100%);
 }
 
 .nav-item a {
