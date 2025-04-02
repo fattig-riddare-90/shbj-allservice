@@ -238,6 +238,7 @@ There are no remaining major differences between the local version when compared
 | [Bootstrap](https://getbootstrap.com) | Various components / responsive front-end framework |
 | [Google Fonts](https://fonts.google.com) | Various fonts |
 | [ChatGPT](https://chatgpt.com) | Help with code logic and explanations |
+| [CSS Gradient](https://cssgradient.io/) | Colour gradient in navbar |
 | Erik Nolander Hallin | My best friend who helped with custom JS scripts for modal |
 
 ### Media
