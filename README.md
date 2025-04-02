@@ -228,24 +228,17 @@ There are no remaining major differences between the local version when compared
 
 ## Credits
 
-- Navigation, Cards and Form from Bootstrap
-- Javascript from Bootstrap
-- Special javascript for my modal from my best friend Erik Nolander Hallin
-- Javascript to collapse the navbar taken from Boardwalk Games course material
-- Images generated using the Bing app, powered by DALLE-3
-- Favicon generated using favicon.io
-- Google Fonts for fonts
-
-
 ### Content
 
 | Source | Notes |
 | --- | --- |
 | [Markdown Builder](https://markdown.2bn.dev) | Help generating Markdown files |
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | "How to Write a Git Commit Message" |
-| [Rosie Resumé](https://codeinstitute.net) | Code Institute walkthrough project inspiration |
+| [Boardwalk Games](https://codeinstitute.net) | Code Institute walkthrough Javascript to collapse navbar |
 | [Bootstrap](https://getbootstrap.com) | Various components / responsive front-end framework |
+| [Google Fonts](https://fonts.google.com) | Various fonts |
 | [ChatGPT](https://chatgpt.com) | Help with code logic and explanations |
+| Erik Nolander Hallin | My best friend who helped with custom JS scripts for modal |
 
 ### Media
 
