@@ -221,6 +221,10 @@ header {
     min-width: 230px;
 }
 
+footer a {
+    color: rgba(255, 126, 38, 1);
+}
+
 /* Media queries */
 
 @media screen and (max-width: 768px) {
