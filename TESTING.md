@@ -31,7 +31,7 @@ I've tested my deployed project to check for responsiveness issues.
 | Page | Mobile | Tablet | Desktop | Notes |
 | --- | --- | --- | --- | --- |
 | Header | ![screenshot](documentation/responsiveness/mobile-header.jpg) | ![screenshot](documentation/responsiveness/tablet-header.jpg) | ![screenshot](documentation/responsiveness/desktop-header.jpg) | Works as expected |
-| Nav | ![screenshot](documentation/responsiveness/mobile-nav.jpg) | ![screenshot](documentation/responsiveness/tablet-nav.jpg) | ![screenshot](documentation/responsiveness/desktop-404.png) | Works as expected |
+| Nav | ![screenshot](documentation/responsiveness/mobile-nav.jpg) | ![screenshot](documentation/responsiveness/tablet-nav.jpg) | ![screenshot](documentation/responsiveness/desktop-header.jpg) | Works as expected |
 | About | ![screenshot](documentation/responsiveness/mobile-about.jpg) | ![screenshot](documentation/responsiveness/tablet-about.jpg) | ![screenshot](documentation/responsiveness/desktop-about.jpg) | Works as expected |
 | Team | ![screenshot](documentation/responsiveness/mobile-team.jpg) | ![screenshot](documentation/responsiveness/tablet-team.jpg) | ![screenshot](documentation/responsiveness/desktop-team.jpg) | Works as expected |
 | Cards | ![screenshot](documentation/responsiveness/mobile-cards.jpg) | ![screenshot](documentation/responsiveness/tablet-cards.jpg) | ![screenshot](documentation/responsiveness/desktop-cards.jpg) | Works as expected |
